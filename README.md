@@ -44,7 +44,7 @@
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Carroth23&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C&column=3&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Carroth23&custom_title=This%20is%20a%20title&hide_border=true&bg_color=fff&line=36b9b2&point=62c9c3&hide_title=true&color=757575)](https://github.com/Carroth23/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Carroth23&custom_title=This%20is%20a%20title&hide_border=true&bg_color=fff&line=36b9b2&point=62c9c3&hide_title=true&color=757575)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <!-- ↓ Dude, You are awesome -->
 
 <!-- https://shields.io/category/other -->
