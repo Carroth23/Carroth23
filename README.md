@@ -2,6 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCarroth23&count_bg=%23CA2EC8&title_bg=%23555555&icon=github.svg&icon_color=%232CE570&title=Hits&edge_flat=false)](https://github.com/Carroth23)
 <a href="https://www.instagram.com/hongjg" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/ghdwlsrb321" target="_blank"><img src="https://img.shields.io/badge/Blog-0ABF53?style=flat&logo=Blogger&logoColor=white"/></a>
+<a href="https://carroth23.notion.site/resume_-c31bc034244a4a579d7b76f107369fc5" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/16469066/carroth23?tab=profile" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=StackOverflow&logoColor=white"/></a>
 <a href="https://discord.gg/YXxYgCFEQe"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="mailto:wlsrb230@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/></a>
