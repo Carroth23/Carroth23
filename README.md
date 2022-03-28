@@ -35,6 +35,7 @@
 [![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=fff)](https://spring.io/)
 [![MySql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.mysql.com/)
 [![IntelliJIDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=fff)](https://www.jetbrains.com/ko-kr/)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=fff)](https://www.thymeleaf.org/)
 [![Etsy](https://img.shields.io/badge/English-00A98F?style=flat-square&logo=Etsy&logoColor=fff)](https://en.wikipedia.org/wiki/English_language)
 
 #### 💻 Tools
