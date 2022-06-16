@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, Universe!!
+## :wave: Hello, Universe!!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCarroth23&count_bg=%23CA2EC8&title_bg=%23555555&icon=github.svg&icon_color=%232CE570&title=Hits&edge_flat=false)](https://github.com/Carroth23)
 <a href="https://www.instagram.com/hongjg" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/ghdwlsrb321" target="_blank"><img src="https://img.shields.io/badge/Blog-0ABF53?style=flat&logo=Blogger&logoColor=white"/></a>
